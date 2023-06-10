@@ -1,0 +1,6 @@
+tensorflow-macos
+opencv-python
+opencv-contrib-python
+numpy
+pandas
+scikit-learn

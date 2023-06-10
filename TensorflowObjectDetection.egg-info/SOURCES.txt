@@ -1,0 +1,6 @@
+setup.py
+TensorflowObjectDetection.egg-info/PKG-INFO
+TensorflowObjectDetection.egg-info/SOURCES.txt
+TensorflowObjectDetection.egg-info/dependency_links.txt
+TensorflowObjectDetection.egg-info/requires.txt
+TensorflowObjectDetection.egg-info/top_level.txt
