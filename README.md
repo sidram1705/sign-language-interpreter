@@ -63,13 +63,15 @@ This will perform a number of steps to setup TFOD models.  See the script for de
 
 Sometimes, tensorflow object detection might nut run successfully. To overcome this issue, you can git clone tensorflow object detection and create a temporary or permananent route to that location to run the code. Follow this blog for reference: https://medium.com/@viviennediegoencarnacion/how-to-setup-tensorflow-object-detection-on-mac-a0b72fbf470a
 
-### [12] Detect in Video (Thank you Tanner Gilbert)
+### [12] Detect in Video
 
 You are now ready to run inferences.  In the case of the sign language project we want to capture images from the webcam.
 
 `python scripts/detect_from_video.py`
 
-### [13] Detect in Image (Thank you Tanner Gilbert)
+The detected hand signs are appended as a sentence and displayed in the terminal as we change our signs.
+
+### [13] Detect in Image
 
 If you are detecting objects in images use the:
 
